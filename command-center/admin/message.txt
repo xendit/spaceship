@@ -37,4 +37,6 @@ MOTHERSHIP: We need to install fighting capability
 MOTHERSHIP: The guns looks scary! Good job!
 ---
 MOTHERSHIP: Now we can finally take flight soon
+----
+MOTHERSHIP: Congrats on the completion of the Falcon. Please send in the captain
 

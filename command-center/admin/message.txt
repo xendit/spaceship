@@ -35,4 +35,6 @@ MOTHERSHIP: A few more years! A few more years!
 MOTHERSHIP: We need to install fighting capability
 ---
 MOTHERSHIP: The guns looks scary! Good job!
+---
+MOTHERSHIP: Now we can finally take flight soon
 

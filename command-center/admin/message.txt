@@ -31,4 +31,6 @@ MOTHERSHIP: The hooman is going insane again with some sort of crash
 MOTHERSHIP: C'mon my troops!!
 ---
 MOTHERSHIP: A few more years! A few more years!
+---
+MOTHERSHIP: We need to install fighting capability
 

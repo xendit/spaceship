@@ -25,4 +25,6 @@ MOTHERSHIP: Great work on the Shield
 MOTHERSHIP: We're getting there
 ---
 MOTHERSHIP: Work work work work work
+---
+MOTHERSHIP: The hooman is going insane again with some sort of crash
 

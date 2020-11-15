@@ -15,4 +15,6 @@ MOTHERSHIP: Keep the ball rolling
 MOTHERSHIP: Nice completion of shiphead
 ---
 MOTHERSHIP: Good work on reactor
+---
+MOTHERSHIP: Let's work even harder
 
